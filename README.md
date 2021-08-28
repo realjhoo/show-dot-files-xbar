@@ -7,8 +7,8 @@ This is a simple xbar plugin to show hidden dot files (or hide them again) writt
 First, this plugin assumes you have xbar, the bitbar reboot.
 Assuming this is so, drop `showdotfiles.2m.sh` in your xbar `plugins` folder. Be sure to set the file to executables by entering `chmod +x showdotfiles.2m.sh` on the command line while in the directory where showdotfiles lives.
 
-# xbar? What's that?
+## xbar? What's that?
 xbar is a Mac OS app that allows you to put (almost) anything in your Mac's menu bar.
 
-# Where can I get xbar?
+## Where can I get xbar?
 You can find xbar at https://xbarapp.com
